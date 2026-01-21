@@ -2,7 +2,6 @@
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 
-<br>
 I'm a Frontend Developer specialized in **Angular**, with experience building production-grade applications and a strong focus on:
 
 - Clean code and best practices.
@@ -37,16 +36,12 @@ An Angular demo project to experiment with it's latest features.
 🔗 **Repository:** https://github.com/alex-charni/gaming-log  
 🔗 **Demo:** https://alex-charni.github.io/gaming-log/home
 
----
-
 ## 🌱 Currently Exploring
 
 - New Angular releases and ecosystem improvements
 - Frontend performance and bundle optimization.
 - Advanced testing strategies in Angular.
 - Architectural patterns for large-scale frontend applications.
-
----
 
 ## 📫 Contact
 
