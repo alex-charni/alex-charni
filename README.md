@@ -5,6 +5,7 @@
 <br>
 I'm a Frontend Developer specialized in **Angular**, with experience building production-grade applications and a strong focus on:
 
+<br>
 - Clean code and best practices.
 - Long-term maintainability.
 - Frontend architecture and separation of concerns.
